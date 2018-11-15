@@ -1,4 +1,4 @@
 # hello-world
 !
-I'm just learning
+I'm just learning.
 Nothing's changed yet
